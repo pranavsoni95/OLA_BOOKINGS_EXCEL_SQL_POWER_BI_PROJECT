@@ -33,10 +33,8 @@ This project analyzes **OLA Cab booking data** using **SQL** and **Power BI** to
 
 ## 📊 Dashboard Snapshots
 
-> Replace `./images/*.png` with the actual exported screenshot files from Power BI.
-
 ### 1️⃣ Ride Volume & Booking Status
-![Ride Volume](./images/ride_volume.png)
+![Ride Volume](/Dashboard Images/Ride_Volume.jpg)
 ![Booking Status](./images/booking_status.png)
 
 ### 2️⃣ Revenue Insights & Top Customers
@@ -54,7 +52,7 @@ This project analyzes **OLA Cab booking data** using **SQL** and **Power BI** to
 - Delivered **interactive dashboards** that highlight business KPIs.  
 - Enabled **data-driven recommendations** for improvement in customer experience and revenue optimization.
 
-## 🏆 Resume Highlights (copy/paste bullets)
+## 🏆 Resume Highlights 
 - Designed SQL queries to extract insights on bookings, cancellations, and ratings.  
 - Developed Power BI dashboards visualizing ride volume, revenue, cancellations, and customer behaviour.  
 - Delivered data-driven recommendations to improve service availability and revenue performance.
